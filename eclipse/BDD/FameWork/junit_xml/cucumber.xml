@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="22.977242">
+<testcase classname="This Selenium Page Feature Files" name="Second page Drop Down Page" time="22.977242">
+<system-out><![CDATA[Given enter to the URL for second page......................................passed
+Then click on DemoBtn for second............................................passed
+Then user to click on StartPractising Btn...................................passed
+When text is visible........................................................passed
+Then user click on Select Drop Down List....................................passed
+Then user click and select List Demo........................................passed
+When selected day is displayed..............................................passed
+Then click and select from MultiList........................................passed
+Then click first selected...................................................passed
+When selected option is displayed...........................................passed
+And close the browser.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
